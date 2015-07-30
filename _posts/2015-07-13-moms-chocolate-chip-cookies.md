@@ -6,6 +6,8 @@ categories:
   - dessert
   - cookies
   - family
+makes: 2 dozen
+source: My mom
 ingredients:
   - amount: 1
     unit: cup
