@@ -15,17 +15,17 @@ ingredients:
     ingredient: Ground cumin
   - amount: 1
     unit: teaspoon
-    ingredient: Salt
-  - amount: 1
+    ingredient: Kosher salt
+  - amount: 0.5
     unit: teaspoon
     ingredient: Pepper
-  - amount: 1
+  - amount: 0.5
     unit: teaspoon
     ingredient: Garlic salt
-  - amount: 1
+  - amount: 0.5
     unit: teaspoon
     ingredient: Smoked paprika (regular is fine too)
-  - amount: 1
+  - amount: 2
     unit: null
     ingredient: lime
 directions:
