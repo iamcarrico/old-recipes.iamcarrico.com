@@ -16,7 +16,7 @@ ingredients:
   - amount: 0.5
     unit: cup
     ingredient: Chopped celery
-  - amount: 32
+  - amount: 72.5
     unit: oz
     ingredient: Chicken broth
   - amount: 1
